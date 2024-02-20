@@ -19,7 +19,7 @@
 # Bienvenue dans l'examen final consacré au langage de programmation Python.
 
 ## Voici l'arborescence du dossier:
-    TP3
+    EXAMEN
      |
      |___README.md
      |___main.py
