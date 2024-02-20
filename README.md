@@ -68,7 +68,7 @@ Puis exécuter la commande suivante:
    python setup.py build
   ```
 
-Volume horaire concernant le TP2:
+Volume horaire concernant l'examen:
 
 | Tâches  | Minutes |
 | ------------- | ------------- |
@@ -79,23 +79,24 @@ Volume horaire concernant le TP2:
 | Total | 95 |
 
 Ce qui a été fait:
-- [X] Les scripts pour les 5 exercices.
+- [X] Les scripts pour les exercices.
 - [X] Développement UI 
 - [X] Création d'une documentation pour l'utilisateur.
+- [X] Réaliser les tests unitaires.
 
 Reste à faire:
-- [ ] Réaliser les tests unitaires.
 - [ ] Centrer le cadre contenant le titre et les boutons au centre de la fenêtre tkinter.
 - [ ] Création d'un Dokerfile en cours mais problème au moment d'exécuté le conteneur. Non prise en charge de tkinter de façon native.
-- [ ] Bonus: Ajouter une étape de sécurité avant de lancer le programme.
+- [ ] Ajout d'une couche de test de sécurité à l'aide de Checkov.
 
 > [!TIP]
 > Si vous souhaitez personnalisez vous mêmes les courbes, voici deux liens menant vers la documentation des modules *seaborn* et *matplotlib*:
 >  - Visit https://seaborn.pydata.org/index.html
 >  - Visit https://matplotlib.org/stable/tutorials/pyplot.html
+>  - Visit https://www.checkov.io/1.Welcome/Quick%20Start.html
 
 
 > [!WARNING]
 > Si vous rencontrez des problèmes avec le programme, vous pouvez m'envoyer un message !
 
-## Amusez-vous bien avec ce TP, et surtout n'oubliez pas d'activer le son de votre ordinateur !
+## Amusez-vous bien avec cet examen, et surtout n'oubliez pas d'activer le son de votre ordinateur !
