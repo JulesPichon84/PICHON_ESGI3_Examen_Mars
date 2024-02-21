@@ -28,20 +28,24 @@
      |___Sounds/
      |___requirements.txt
      |
-     |___exo/
+     |___Exercices/
           |
           |___pycache
-          |___exo1.py
-          |___exo2.py
-          |___exo3.py
-     
+          |___Exercice1.py
+          |___Exercice2.py
+          |___Exercice3.py
+          |___Exercice4.py
+          |___test_exercice1.py
+          |___test_exercice2.py
+          |___test_exercice3.py
+          |___test_exercice4.py
 
 ## Lors de votre arrivée dans la racine du projet, vous trouverez plusieurs fichiers et dossiers:
   1- Le fichier *main.py* représente le point d'entrée du programme, c'est par lui que tout commence.<br>
   2- Le fichier *interface.py* définit l'interface utilisateur du programme à l'aide du module Tkinter et permet d'appeler les différents exercices du TP.<br>
   3- Le fichier *requirements.txt* contient la liste des modules nécessaires pour le bon fonctionnement du programme.<br>
   4- Les dossiers *Images* et *Sound* contiennent toutes les images et les sons pour l'interface utilisateur.<br>
-  5- Enfin, le dossier *exo* contient tous les exercices du TP.
+  5- Enfin, le dossier *Exercices* contient tous les exercices de l'examen ainsi que les tests unitaires associés.<br>
 
 Si vous souhaitez avoir un exécutable sous **Windows**, il vous suffit d'exécuter le code suivant:
   ```shell
@@ -72,20 +76,20 @@ Volume horaire concernant l'examen:
 
 | Tâches  | Minutes |
 | ------------- | ------------- |
-| Développement des Scripts Python  | 60 |
-| Développement du GUI  | 15 |
-| Liaison du GUI aux Scripts | 15 |
-| Rédaction documentation| 5 |
-| Total | 95 |
+| Développement des Scripts Python  | 50 |
+| Développement tests unitaires  | 20 |
+| Développement du GUI  | 10 |
+| Liaison du GUI aux Scripts | X |
+| Rédaction documentation| 10 |
+| Total | 90 |
 
 Ce qui a été fait:
 - [X] Les scripts pour les exercices.
-- [X] Développement UI 
 - [X] Création d'une documentation pour l'utilisateur.
 - [X] Réaliser les tests unitaires.
 
 Reste à faire:
-- [ ] Centrer le cadre contenant le titre et les boutons au centre de la fenêtre tkinter.
+- [ ] Finir développement UI 
 - [ ] Création d'un Dokerfile en cours mais problème au moment d'exécuté le conteneur. Non prise en charge de tkinter de façon native.
 - [ ] Ajout d'une couche de test de sécurité à l'aide de Checkov.
 

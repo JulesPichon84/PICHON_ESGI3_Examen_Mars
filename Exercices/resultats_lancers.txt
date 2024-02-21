@@ -1,0 +1,6 @@
+Lancement du dé 1 : 5
+Lancement du dé 2 : 4
+Lancement du dé 3 : 2
+Lancement du dé 4 : 3
+Lancement du dé 5 : 2
+Votre score est de 16.

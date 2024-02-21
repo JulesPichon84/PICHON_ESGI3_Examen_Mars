@@ -1,0 +1,2 @@
+Nom du joueur;Score du joueur;Score de la machine
+Joueur;11;8
