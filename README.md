@@ -94,7 +94,7 @@ Reste à faire:
 >  - Visit https://seaborn.pydata.org/index.html
 >  - Visit https://matplotlib.org/stable/tutorials/pyplot.html
 >  - Visit https://www.checkov.io/1.Welcome/Quick%20Start.html
-
+>  - Visit https://numpy.org/doc/stable/
 
 > [!WARNING]
 > Si vous rencontrez des problèmes avec le programme, vous pouvez m'envoyer un message !
