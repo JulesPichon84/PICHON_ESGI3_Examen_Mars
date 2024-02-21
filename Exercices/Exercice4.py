@@ -8,6 +8,7 @@ from Exercice1 import *
 from Exercice2 import *
 from Exercice3 import *
 
+
 #---Définition fonction principale-----------
 class Jeu_de_des_contre_machine:
     def __init__(self, nb_des, nom_joueur):
@@ -48,7 +49,8 @@ class Jeu_de_des_contre_machine:
         print(f"Score du joueur: {self.score_joueur}")
         print(f"Score de la machine: {self.score_machine}")
 
-# Test de la classe
+
+#---Définition fonction de test-----------
 def exercice4():
     jeu = Jeu_de_des_contre_machine(3, "Joueur")
     jeu.jouer()
